@@ -52,3 +52,17 @@
 <p align="center">
 Thanks for stopping by! Let's turn data into decisions 🚀
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IshiSama&show_icons=true&theme=calm&hide=contribs&count_private=true" alt="Ishita's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IshiSama&theme=calm" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshiSama&layout=compact&theme=calm&langs_count=6" alt="Top Languages" />
+</p>
