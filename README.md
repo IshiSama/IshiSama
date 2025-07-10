@@ -44,7 +44,7 @@
 
 ## 🔗 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/ishitasrivastava852/)  
-- 📁 [Portfolio]([https://github.com/IshiSama](https://www.datascienceportfol.io/ishisrivastava852)  
+- 📁 [Portfolio](https://www.datascienceportfol.io/ishisrivastava852)  
 - 📧 Email: ishitasrivastava852@gmail.com
 
 ---
